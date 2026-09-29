@@ -1,4 +1,3 @@
-# Galarza_Mijail_EntregableFinal_ProgramacionIV[README.md](https://github.com/user-attachments/files/32781597/README.md)
 # TechStore — Inventario de computadoras y periféricos con IA (Ollama)
 
 Aplicación web en **Django** para administrar el inventario de una tienda de
